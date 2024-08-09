@@ -1,0 +1,11 @@
+=== PART 1
+
+Explain how your method create_solution works.
+
+=== PART 2
+
+Explain how you build each neighbourhood, and comment on the strength of these neighbourhoods.
+
+=== PART 3
+
+Explain each destroy method you implemented.
